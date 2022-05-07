@@ -1,0 +1,43 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "/home/pablo/Documentos/02_Maestria_en_Sistemas_Embebidos/24_SED_Sistemas_Embebidos_Distribuidos/Practicas_realizadas/TP_integrador_ver1/build/CMakeFiles/bootloader"
+		},
+		{
+			"file" : "/home/pablo/Documentos/02_Maestria_en_Sistemas_Embebidos/24_SED_Sistemas_Embebidos_Distribuidos/Practicas_realizadas/TP_integrador_ver1/build/CMakeFiles/bootloader.rule"
+		},
+		{
+			"file" : "/home/pablo/Documentos/02_Maestria_en_Sistemas_Embebidos/24_SED_Sistemas_Embebidos_Distribuidos/Practicas_realizadas/TP_integrador_ver1/build/CMakeFiles/bootloader-complete.rule"
+		},
+		{
+			"file" : "/home/pablo/Documentos/02_Maestria_en_Sistemas_Embebidos/24_SED_Sistemas_Embebidos_Distribuidos/Practicas_realizadas/TP_integrador_ver1/build/bootloader-prefix/src/bootloader-stamp/bootloader-build.rule"
+		},
+		{
+			"file" : "/home/pablo/Documentos/02_Maestria_en_Sistemas_Embebidos/24_SED_Sistemas_Embebidos_Distribuidos/Practicas_realizadas/TP_integrador_ver1/build/bootloader-prefix/src/bootloader-stamp/bootloader-configure.rule"
+		},
+		{
+			"file" : "/home/pablo/Documentos/02_Maestria_en_Sistemas_Embebidos/24_SED_Sistemas_Embebidos_Distribuidos/Practicas_realizadas/TP_integrador_ver1/build/bootloader-prefix/src/bootloader-stamp/bootloader-download.rule"
+		},
+		{
+			"file" : "/home/pablo/Documentos/02_Maestria_en_Sistemas_Embebidos/24_SED_Sistemas_Embebidos_Distribuidos/Practicas_realizadas/TP_integrador_ver1/build/bootloader-prefix/src/bootloader-stamp/bootloader-install.rule"
+		},
+		{
+			"file" : "/home/pablo/Documentos/02_Maestria_en_Sistemas_Embebidos/24_SED_Sistemas_Embebidos_Distribuidos/Practicas_realizadas/TP_integrador_ver1/build/bootloader-prefix/src/bootloader-stamp/bootloader-mkdir.rule"
+		},
+		{
+			"file" : "/home/pablo/Documentos/02_Maestria_en_Sistemas_Embebidos/24_SED_Sistemas_Embebidos_Distribuidos/Practicas_realizadas/TP_integrador_ver1/build/bootloader-prefix/src/bootloader-stamp/bootloader-patch.rule"
+		},
+		{
+			"file" : "/home/pablo/Documentos/02_Maestria_en_Sistemas_Embebidos/24_SED_Sistemas_Embebidos_Distribuidos/Practicas_realizadas/TP_integrador_ver1/build/bootloader-prefix/src/bootloader-stamp/bootloader-update.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"bootloader"
+		],
+		"name" : "bootloader"
+	}
+}
